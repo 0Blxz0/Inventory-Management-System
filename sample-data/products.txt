@@ -1,0 +1,4 @@
+10001,USB MOUSE,Wireless optical mouse,25,39.90
+10002,KEYBOARD,Mechanical keyboard,3,159.00
+10003,MONITOR,24-inch IPS monitor,12,599.00
+10004,HDMI CABLE,2 m HDMI 2.1 cable,2,25.50
